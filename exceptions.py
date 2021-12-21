@@ -1,0 +1,1 @@
+class CrossulaException(Exception): pass
